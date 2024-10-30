@@ -15,3 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
 docker-compose up -d --build
 ```
+
+3. Acessar
+```bash
+http://localhost:3000
+```
